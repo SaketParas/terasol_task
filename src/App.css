@@ -1,0 +1,65 @@
+.App {
+  /* text-align: center; */
+  background: whitesmoke;
+}
+
+.topNav {
+  height: 70px;
+  line-height: 70px;
+  width: 100%;
+  background: rgb(76, 77, 156);
+}
+
+.navbar {
+  height: 70px;
+  width: auto;
+}
+
+.footer {
+  height: 150px;
+  width: auto;
+  line-height: 150px;
+  background: white;
+}
+
+.socialIcon {
+  height: 50px;
+  width: 100px;
+}
+
+.text {
+  font-size: 45px;
+  text-align: left;
+}
+
+
+
+.line {
+  height: 40px;
+  width: 1px;
+  background: gray;
+}
+
+.button {
+  color: blueviolet;
+}
+
+.logoImg {
+  height: 30px;
+  width: 30px;
+  /* margin-left: ; */
+}
+
+.leaImg {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.nav {
+  display: flex;
+}
+.smallImg {
+  height: 40px;
+  border-radius: 30px;
+}
